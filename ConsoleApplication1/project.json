@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "google-protobuf-cpp": "3.0.2"
+    "boost": "1.63.0"
   },
   "frameworks": {
     "net40": {
